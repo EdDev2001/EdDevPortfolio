@@ -2,7 +2,7 @@
   import { fly } from 'svelte/transition';
 
   const codeString = `<span class="keyword">const</span> <span class="variable">developer</span> <span class="operator">=</span> {
-  <span class="property">name</span>: <span class="string">'EdDev2001'</span>,
+  <span class="property">name</span>: <span class="string">'Ednel Padernal'</span>,
   <span class="property">title</span>: <span class="string">'Fullstack Developer'</span>,
   <span class="property">skills</span>: [<span class="string">'PHP'</span>, <span class="string">'Flutter'</span>, <span class="string">'Python'</span>, <span class="string">'MySQL'</span>, <span class="string">'SQL'</span>, <span class="string">'Web Development'</span>, <span class="string">'IoT'</span>, <span class="string">'Svelte'</span>],
   <span class="property">experience</span>: <span class="string">'3+ years'</span>,
@@ -20,7 +20,7 @@
   <section id="home" class="hero-section">
     <div class="hero-content">
       <h1 class="hero-name" in:fly={{ y: 20, duration: 800, delay: 300 }}>
-        EdDev2001
+        Ednel Padernal
       </h1>
       <h2 class="hero-title" in:fly={{ y: 20, duration: 800, delay: 500 }}>
         Fullstack Developer
