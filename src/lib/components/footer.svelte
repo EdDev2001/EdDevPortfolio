@@ -6,7 +6,7 @@
   const socialLinks = [
     { name: 'GitHub', icon: 'mdi:github', url: 'https://github.com/EdDev2001' },
     { name: 'LinkedIn', icon: 'mdi:linkedin', url: 'https://linkedin.com/in/ednel-l-padernal-b954302a0' },
-    { name: 'Facebook', icon: 'mdi:facebook', url: 'https://facebook.com/inuu2001' },
+    { name: 'Facebook', icon: 'mdi:facebook', url: 'https://facebook.com' },
     { name: 'Telegram', icon: 'mdi:telegram', url: 'https://t.me/ednel2001' }
   ];
 
